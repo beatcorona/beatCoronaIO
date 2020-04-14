@@ -9,7 +9,7 @@ export default () => (
       <a>About Us</a>
     </Link>
     <Link href="/background">
-      <a>Background</a>
+      <a>Ecosystem</a>
     </Link>
     <Link href="/solutions">
       <a>Solutions</a>

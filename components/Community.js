@@ -2,7 +2,6 @@ import React from "react";
 
 const Community = () => (
   <div>
-    <h1>Community</h1>
     <div className="departmentTitle">
                 <h2>The Community</h2>
               </div>
@@ -18,7 +17,7 @@ const Community = () => (
          </div>
          <div className="mid">
              <h3>Jiahua Java Xu</h3>
-             <h4></h4>
+             <h4>United Kingdom</h4>
          </div>
          <div className="bot topRow">
              <p>Java is Research Affiliate at UCL Centre for Blockchain Technologies and Swiss Federal Institute of Technology in Lausanne (EPFL). Prior to UCL, she was an Academic Visitor at Harvard Business School and Imperial college London.</p>
@@ -37,7 +36,7 @@ Java works pro bono at a not-for-profit organisation Development International e
          </div>
          <div className="mid">
              <h3>Dr. Abraham Teferi</h3>
-             <h4></h4>
+             <h4>Ethiopia - United Kingdom</h4>
          </div>
          <div className="bot topRow">
              <p>Dr Abraham Teferi is Medical virologist with a special interest in Hepatitis B & C viruses, HIV, Ebola and other haemorrhages. Dr. Abraham has expertise on fever viruses, genetic engineering, cloning, developing a monoclonal antibody, vaccine development, and DNA vaccine development.</p>
@@ -54,7 +53,7 @@ Java works pro bono at a not-for-profit organisation Development International e
          </div>
          <div className="mid">
              <h3>Dan Zhao</h3>
-             <h4></h4>
+             <h4>United Kingdom</h4>
          </div>
          <div className="bot topRow">
              <p>Machine Learning with Applications in wider areas including Finance, Financial Engineering, Market Risk
@@ -74,7 +73,7 @@ and Portfolio Theory, Financial Data and Statistics, and Algorithmic Trading. </
          </div>
          <div className="mid">
              <h3>Martina Perez</h3>
-             <h4></h4>
+             <h4>United Kingdom</h4>
          </div>
          <div className="bot topRow">
              <p>Martina is a Product Design Lead with over ten years of experience working for native mobile apps and web platforms. She has been working for B2B and B2C, in digital agencies for clients such as Coca Cola and McDonalds and also working on own products of companies such as her time at Schibsted. She loves to solve complex user problems and has a special interest about how user research can transform the way you approach the design problems. She strives for getting the insights and data needed as to design solutions based on real knowledge about users and their behaviour.</p>
@@ -93,7 +92,7 @@ Martina holds a Bachelor degree in Audiovisual Communication and Postgraduates i
          </div>
          <div className="mid">
              <h3>Amina Abawajy</h3>
-             <h4></h4>
+             <h4>Canada</h4>
          </div>
          <div className="bot topRow">
              <p>Amina Abawajy is a leader with a strong background in communications and partnership strategies. She uses entrepreneurship as a lever to drive social change and equitable practices. </p>
@@ -112,7 +111,7 @@ Martina holds a Bachelor degree in Audiovisual Communication and Postgraduates i
          </div>
          <div className="mid">
              <h3>Aditi Chawla</h3>
-             <h4></h4>
+             <h4>United Kingdom</h4>
          </div>
          <div className="bot topRow">
              <p>Aditi is passionate about working on digital products and designing human-centred solutions that have a positive impact on people's lives. </p>
@@ -133,7 +132,7 @@ Aditi is proud to join hands with Beat Corona to design a platform that'll help 
          </div>
          <div className="mid">
              <h3>Marius Bremond</h3>
-             <h4></h4>
+             <h4>Amsterdam</h4>
          </div>
          <div className="bot topRow">
              <p>Marius transformative leader with diverse expertise from development to design and Marketing and Recruitment. 
@@ -154,7 +153,7 @@ He co-founded Squib B.V based in Amsterdam, the first free shared bike platform 
          </div>
          <div className="mid">
              <h3>Kanika Gupta</h3>
-             <h4></h4>
+             <h4>United Kingdom</h4>
          </div>
          <div className="bot topRow">
              <p>Kanika is Senior Software Engineer and Consultant , with strong background driving quality assurance in the development cycle. Her Consultancy working with Tata gave her exposure to different industries and best practice in driving consumer oriented product development.  Kanika has also strong expertise in Data warehousing and backend data base integration.</p>
@@ -171,7 +170,7 @@ He co-founded Squib B.V based in Amsterdam, the first free shared bike platform 
          </div>
          <div className="mid">
              <h3>Ahmed ElNahas</h3>
-             <h4></h4>
+             <h4>Canada</h4>
          </div>
          <div className="bot topRow">
              <p>Ahmed is a software developer with 7 years of experience in the industry. Ahmed strives to find ways were software can help improve peoples lives. With a passion for getting involved in open source projects and volunteering opportunities, Ahmed has collaborated with many groups in designing, developing, and deploying software solutions.
@@ -189,7 +188,7 @@ Ahmed has a Bsc. in Electrical Engineering from the University of Alberta in Can
          </div>
          <div className="mid">
              <h3>Sola Babatunde</h3>
-             <h4></h4>
+             <h4>United States</h4>
          </div>
          <div className="bot topRow">
              <p>Sola is the Director of Product Design / Development at Applied Cognitive Ergonomic in Bryan. He has experience doing research at universities like Texas A&M University and Hong Kong University of Science and Technology. He has experience in product design at several top tech companies such as Airbnb and Facebook.</p>
@@ -206,7 +205,7 @@ Ahmed has a Bsc. in Electrical Engineering from the University of Alberta in Can
          </div>
          <div className="mid">
              <h3>Eduardo Luciano Huapaya</h3>
-             <h4></h4>
+             <h4>United States</h4>
          </div>
          <div className="bot topRow">
              <p>Luciano is Biomedical Engineer and Grand Challenge Scholar at National Academy of Engineers. Prior to the Corona Out break he has taken time off to give back to society through Health Volunteer engagement with Peace Corps.</p>
@@ -225,7 +224,7 @@ Luciano Holds Bachelor degree in mBiomedical /medical engineering with an honora
          </div>
          <div className="mid">
              <h3>Adil Mezghouti</h3>
-             <h4></h4>
+             <h4>United States</h4>
          </div>
          <div className="bot topRow">
              <p>Adil is a Solution architect and Software developer  with more than 14 years of experience taking part in digitalisation across different industries  from Banks, Energy companies, Telecommunications,  Gaming, and Big tech/Google.</p>
@@ -263,7 +262,7 @@ He was raised on the golden rule of "treat others, the way you would like to be 
          </div>
          <div className="mid">
              <h3>MiaoMiao Liu</h3>
-             <h4></h4>
+             <h4>China</h4>
          </div>
          <div className="bot topRow">
              <p>MiaoMiao is a masters student at UCL in Computational Finance, also a Co-Author of method and system for sentiment classification which analyses emotional dictionary and feature words in the field of cross-cultural.</p>
@@ -281,7 +280,7 @@ He was raised on the golden rule of "treat others, the way you would like to be 
          </div>
          <div className="mid">
              <h3>Leonel Machava</h3>
-             <h4></h4>
+             <h4>Mozambique</h4>
          </div>
          <div className="bot topRow">
              <p>Leonel is full stack software engineer with large experience in development of mobile, desktop and scalable web applications using latest technologies and agile practices including TDD and BDD.</p>
@@ -306,7 +305,7 @@ Eduardo holds Bachelor degree from Mondlane University and frequently blogs at:<
          </div>
          <div className="mid">
              <h3>Thummim Mekuria</h3>
-             <h4></h4>
+             <h4>Ethiopia</h4>
          </div>
          <div className="bot topRow">
              <p>Thummim is currently pursuing a combined degree in Philosophy and Astrophysics from Pomona College in California, with interests in web design, UX/UI design, and overall using technology to provide access to healthcare and education for underprivileged populations. In addition to technical skills in web development, she has experience working in social advocacy and educational access.</p>
@@ -322,7 +321,7 @@ Eduardo holds Bachelor degree from Mondlane University and frequently blogs at:<
          </div>
          <div className="mid">
              <h3>Aisha Abawajy</h3>
-             <h4></h4>
+             <h4>Canada</h4>
          </div>
          <div className="bot topRow">
              <p>Aisha is passionate about social justice with a particular interest in racial justice advocacy. An extremely experienced leader who builds a critical analysis from an anti-oppressive, intersectional and feminist framework, she comes with strong policy analysis skills, outreach and engagement expertise, and facilitation experience while intersecting technology with social and political science disciplines.</p>
@@ -339,7 +338,7 @@ Eduardo holds Bachelor degree from Mondlane University and frequently blogs at:<
          </div>
          <div className="mid">
              <h3>Kang Hang</h3>
-             <h4></h4>
+             <h4>China</h4>
          </div>
          <div className="bot topRow">
              <p>Kang Han is UCL Master Program student majoring in Finance Risk management, he has conduced several industry lead projects including Linear Regression model for Stock on NYSE. Numerical methods solving Nonlinear algebraic equation, Shanghai Zhizun Smartrace Electronic Technology Co data modelling for capacity management and planning.</p>
@@ -356,7 +355,7 @@ Eduardo holds Bachelor degree from Mondlane University and frequently blogs at:<
          </div>
          <div className="mid">
              <h3>Nikola Milijkovic</h3>
-             <h4></h4>
+             <h4>Canada</h4>
          </div>
          <div className="bot topRow">
              <p>Nikola played a key role in initiating and implementing a large-scale software reconstruction project for one of Canada's largest specialty chemical distribution companies - LV Lomas.</p>
@@ -376,7 +375,7 @@ Eduardo holds Bachelor degree from Mondlane University and frequently blogs at:<
          </div>
          <div className="mid">
              <h3>Saurabh Taneja</h3>
-             <h4></h4>
+             <h4>Dubai</h4>
          </div>
          <div className="bot topRow">
              <p>Saurabh is a dynamic IT professional - Devops, experienced with AWS,GCP and Azure Cloud Deployments and Migrations. I presently architect solutions and help cloud enablement for startups as well as facilitate enterprise infrastructure migrations to the cloud.</p>
@@ -395,7 +394,7 @@ Ambitious, Hardworking, Focused, Innovative and Enthusiastic are some of the tra
          </div>
          <div className="mid">
              <h3>Eddy Patrick MUHIRE</h3>
-             <h4></h4>
+             <h4>Rawanda</h4>
          </div>
          <div className="bot topRow">
              <p>Eddy is Humanitarian and an Engineer by back ground with strong focus in Mental health awareness through the right Coaching platforms.  He believes Mindfulness and Awareness gives power of understanding to higher senses and hence allowing one into infinity of growth. Being purpose-oriented is one his many Strengths.</p>
@@ -412,7 +411,7 @@ Ambitious, Hardworking, Focused, Innovative and Enthusiastic are some of the tra
          </div>
          <div className="mid">
              <h3>Josh Morel</h3>
-             <h4></h4>
+             <h4>Canada</h4>
          </div>
          <div className="bot topRow">
              <p>Josh is a full stack web developer with interests in open source software, content management systems, remote collaboration, and using technology for social good. Previously he worked for 8 years as a healthcare data analyst at a Canadian hospital which included work in data warehousing, business intelligence, data quality and process redesign.</p>
@@ -430,7 +429,7 @@ Ambitious, Hardworking, Focused, Innovative and Enthusiastic are some of the tra
          </div>
          <div className="mid">
              <h3>Gowtham Manogaran</h3>
-             <h4></h4>
+             <h4>India</h4>
          </div>
          <div className="bot topRow">
              <p>Gowtham is passionate about cyber security. As an experienced cyber security Engineer, he has helped organisations to build and maintain secure applications. 
@@ -452,7 +451,7 @@ Previously, he has worked as full stack developer for media and entertainment in
          </div>
          <div className="mid">
              <h3>Jacob Nickle</h3>
-             <h4></h4>
+             <h4>United States</h4>
          </div>
          <div className="bot topRow">
              <p>Jacob is an experienced mechanical engineering with track record in supporting biotech industry.  Previously he worked as contractor for Pyrexar Medical supporting a project to increase visual appeal of hypothermia products.</p>
@@ -499,7 +498,143 @@ Joshua earned his Bachelor degree in Computer Science from Chicago University.</
          </div>
      </div>
      </div>
+<div className="card">
+     <div className="teammateCard">
+         <div className="top">
+             <div className="profilePicContainer">
+             <img src="/images/teammates/jamie_vanderwall.jpeg" className="profilePic"></img>
+             </div>
+         </div>
+         <div className="mid">
+             <h3>Jamie Vanderwall</h3>
+             <h4>United States</h4>
+         </div>
+         <div className="bot topRow">
+            <p>Jamie is  UX Designer and a senior at the University of Washington pursuing a B.S. in Human Centered Design and Engineering.</p>
+            <p>She has served different organisations across many roles in design, user research, Marketing & user experience and public relation.</p>
+            <p>Jamie is an empathetic problem solver focused on designing positive, out of the box solutions that encompass user needs.</p>
+         </div>
      </div>
+     </div>
+<div className="card">
+     <div className="teammateCard">
+         <div className="top">
+             <div className="profilePicContainer">
+             <img src="/images/teammates/charles_edward.jpeg" className="profilePic"></img>
+             </div>
+         </div>
+         <div className="mid">
+             <h3>Charles Edward</h3>
+             <h4>United Kingdom</h4>
+         </div>
+         <div className="bot topRow">
+            <p>Charles is Highly driven and proactive self starter who is always challenging the status quo and considering, suggesting and testing new ideas and approaches to business & design. Creative and entrepreneurial with a passion for Product Design &amp; Technology. Results driven with great relationship building skills. </p>
+            <p>Apart from Product design, Charles has different both executive and non-executive role as an account and Business development in the creative industry.</p>
+            <p>Charles holds a bachelor Modern Language from Southampton University and UX/UI Design from Flatiron School.</p>
+         </div>
+     </div>
+     </div>
+
+
+     </div>
+     <style jsx>{`
+     
+    h2 {
+        width: 100%;
+        text-align: center;
+    }
+      .departmentTitle {
+          margin-top: 40px;
+          border-bottom: groove 1px #444;
+      }
+      .departmentTitle h2 {
+          font-size: 2rem;
+          margin-top: 60px;
+      }
+            .container {
+                min-height: 100vh;
+                padding: 0 0.5rem;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+              }
+
+              main {
+                padding: 2rem 0;
+                flex: 1;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+              }
+        
+              .grid {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                flex-wrap: wrap;
+                margin-top: 1rem;
+              }
+              .topRowFounders {
+                  height: 800px;
+              }
+              .topRow {
+                  height: 500px;
+              }
+              .midRow {
+                  height: 300px;
+              }
+              .teamDepartment {
+                  padding-bottom: 30px;
+              }
+              .teammateCard {
+                margin: 1rem;
+                background: #f7b60393;
+                flex-basis: 45%;
+                padding: 2.5rem;
+                margin-top: 100px;
+                text-align: left;
+                color: inherit;
+                text-decoration: none;
+                border: 1px solid #f7b403;
+                border-radius: 10px;
+                max-width: 350px;
+                transition: color 0.55s ease, border-color 0.35s ease;
+            }
+            .teammateCard:hover {
+                background: white;
+            }
+            .top {
+                background: #f7b603;
+                border-radius: 50%;
+                width: 200px;
+                height: 200px;
+                margin-top: -100px;
+                margin-left: 75px;
+                padding: 1px;
+            }
+.profilePicContainer img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.mid {
+    padding: 0;
+    margin-left: -15%;
+    width: 130%;
+    text-align: center;
+    padding-bottom: 15px;
+    
+}
+.mid h4 {
+    color: #444;
+}
+.bot {
+    max-width: 350px
+}
+      `}
+      </style>
   </div>
 );
 

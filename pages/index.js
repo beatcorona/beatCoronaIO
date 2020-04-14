@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import Layout from '../components/Layout';
-
+import Header from '../components/Header';
 const Home = () => (
   <div className="container">
     <Head>
@@ -8,6 +8,7 @@ const Home = () => (
       <link rel="icon" href="/favicon.ico" />
     </Head>
     <Layout>
+
     <main>
       <div className="index-logo">
       <img src="/images/site/beat_corona_logo.webp"></img>

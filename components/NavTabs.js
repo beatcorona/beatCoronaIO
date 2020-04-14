@@ -35,6 +35,7 @@ function NavTabs(props) {
     <style jsx> {`
         .tabsBar {
             text-align: center;
+            width: 100vw;
         }
         .tabsBar ul {
             display: flex;
@@ -49,6 +50,7 @@ function NavTabs(props) {
             width: 100%;
             font-size: 1.5rem;
             text-decoration: none;
+            color: black;
         }
     `}
 

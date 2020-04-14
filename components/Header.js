@@ -8,13 +8,15 @@ const linkStyle = {
   textAlign: 'center',
   width: '20%'
 }; 
+ 
 
 const headerStyle = {
     border: '1px solid #111',
     paddingTop: 10,
     paddingBottom: 10
-}
-
+    
+  }
+   
 const Header = () => (
   <div style={headerStyle} className="header">
       
@@ -25,7 +27,7 @@ const Header = () => (
       <a title="About Us" style={linkStyle}>About Us</a>
     </Link>
     <Link href="/background">
-      <a title="Background" style={linkStyle}>Background</a>
+      <a title="Ecosystem" style={linkStyle}>Ecosystem</a>
     </Link>
     <Link href="/solutions">
       <a title="Solutions" style={linkStyle}>Solutions</a>

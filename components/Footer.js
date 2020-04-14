@@ -1,3 +1,4 @@
+
 const footerStyle = {
     border: '1px solid #111',
     padding: 10,

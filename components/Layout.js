@@ -20,21 +20,26 @@ export default function Layout(props) {
     
       <Header />
       {props.children}
+      <main>
+
+      </main>
       <Footer />
       <style jsx>{`
         .background {
             margin: 0 auto;
-            height: 110vh;
+            height: 100vh;
+            
         }
         .background-overlay {
-            width: 110vw;
-            height: 110vh;
+            width: 100vw;
+            height: 100vh;
             position: fixed;
             top: 0;
             left: 0;
-            background: #00444588;
+            background: #fff;
             z-index: -999;
         }
+
     `}</style>
     </div>
   )
