@@ -5,11 +5,11 @@ const footerStyle = {
 
 const Header = () => (
   <div style={footerStyle} className="footer">
-       <div className="emergency">
+{/*        <div className="emergency">
         <h5 className="emergency-notice">EMERGENCY</h5>
         <button><a href="tel:021-040-77oo">Call</a></button>
         <h5 className="emergency-notice">ONLY</h5>
-      </div>
+      </div> */}
       <div className="left-footer">
         <p>BeatCorona</p>
       </div>
@@ -22,12 +22,11 @@ const Header = () => (
   <style jsx>
       {`
  .footer {
-    width: 95%;
+    width: 100%;
     background: #004445a2;
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 12px;
     margin-top: 20px;
   }
   .emergency {
