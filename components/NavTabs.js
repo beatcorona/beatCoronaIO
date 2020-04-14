@@ -2,6 +2,7 @@ import React from "react";
 
 function NavTabs(props) {
   return (
+      <div className="tabsBar">
     <ul className="nav nav-tabs">
       <li className="nav-item">
         <a
@@ -31,6 +32,28 @@ function NavTabs(props) {
         </a>
       </li>
     </ul>
+    <style jsx> {`
+        .tabsBar {
+            text-align: center;
+        }
+        .tabsBar ul {
+            display: flex;
+            flex-direction: row;
+
+        }
+        .tabsBar li {
+            width: 50%;
+            list-style: none;
+        }
+        .nav-item a {
+            width: 100%;
+            font-size: 1.5rem;
+            text-decoration: none;
+        }
+    `}
+
+    </style>
+    </div>
   );
 }
 
