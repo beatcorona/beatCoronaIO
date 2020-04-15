@@ -8,14 +8,19 @@ const linkStyle = {
   textAlign: 'center',
   width: '20%'
 }; 
- 
+
 
 const headerStyle = {
     border: '1px solid #111',
     paddingTop: 10,
-    paddingBottom: 10
-    
+    paddingBottom: 10,
+    height: 65,
+    position: 'absolute',
+    width: '100vw',
+    top: 0,
+    zIndex: 100
   }
+
    
 const Header = () => (
   <div style={headerStyle} className="header">
@@ -43,8 +48,7 @@ const Header = () => (
       {`
         .header {
             width: 100%;
-            background: #004445a2;
-            border-radius: 12px;
+            background: #161616;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -52,9 +56,7 @@ const Header = () => (
           .headerStyle a {
               text-align: center;
         }
-         a:hover {
-            color: red;
-        }
+
             `}
   </style>
 </div>

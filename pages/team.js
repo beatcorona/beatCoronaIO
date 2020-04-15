@@ -5,13 +5,19 @@ const Team = () => (
     
   <div>
       <Layout>
-          <main>
+            <div className="container">
+        
           <Tabs />
  
-          </main>
+            </div>
+          
       </Layout>
       
       <style jsx>{`
+        .container {
+            margin-top: 50px;
+            background: #fff;
+        }
       .departmentTitle {
           margin-top: 40px;
           border-bottom: groove 1px #444;

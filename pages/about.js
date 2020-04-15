@@ -1,8 +1,9 @@
 import Layout from '../components/Layout';
 
 const About = () => (
-  <div className="container">
+  <div>
       <Layout>
+  <div className="container">
           <main>
               <img src="/images/site/dr_notes.webp"></img>
               <h1>About</h1>
@@ -16,8 +17,13 @@ The platform aims to facilitate clinical &amp; business decision making through 
 <a href="https://docs.google.com/forms/d/1QZ--22IqPA3CzNmE6plmORs23Npo0ZoRySFKaAu8cH0/viewform?edit_requested=true">Make a Pledge</a>
 </div>
           </main>
+          </div>
       </Layout>
       <style jsx>{`
+              .container {
+                margin-top: 50px;
+                background: #fff;
+            }
                  .pledgeButton {
                     background: gold;
                     width: 200px;

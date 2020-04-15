@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import Layout from '../components/Layout';
-import Header from '../components/Header';
+
+
 const Home = () => (
   <div className="container">
     <Head>
@@ -10,9 +11,6 @@ const Home = () => (
     <Layout>
 
     <main>
-      <div className="index-logo">
-      <img src="/images/site/beat_corona_logo.webp"></img>
-      </div>
       <h3>Leading The Health Sector Transformation to Combat Epidemics</h3>
 
       <div className="mainSection">
@@ -59,10 +57,18 @@ const Home = () => (
     </Layout>
 
     <style jsx>{`
-    
+      h2 {
+        width: 100%;
+        text-align: center;
+        color: #ad9202;
+        font-size: 2rem;
+      }
+      h3 {
+        color: #5e5e5e;
+      }
       .container {
         min-height: 100vh;
-        padding: 0 0.5rem;
+        padding: 0 0;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -70,14 +76,14 @@ const Home = () => (
       }
       
       main {
-        padding: 2rem 0;
+        padding: 0 8rem;
         flex: 1;
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        width: 90vw;
-        margin-left: 5vw;
+        width: 100vw;
+        background: #fff;
       }
 
       footer {
@@ -144,27 +150,33 @@ const Home = () => (
         margin-top: 3rem;
       }
       
+      .index-logo-container {
+        width: 100%;
+        padding-bottom: 150px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
       .index-logo {
-        padding: 30px;
-        background: #f7b60393;
-        border: solid 10px #004445;
+        margin-top: 25px;
+        padding: 10px;
+        background: #fff;
+        border: solid 3px #000;
       }
       .index-logo img {
-        border-radius: 12px;
+        width: 100px;
+        height: 100px;
 
       }
       .card {
         margin: 1rem;
-        background: #f7b60393;
         flex-basis: 45%;
         padding: 1.5rem;
         text-align: left;
         color: inherit;
         text-decoration: none;
-        border: 1px solid #f7b403;
-        border-radius: 10px;
-        transition: color 0.15s ease, border-color 0.15s ease;
         height: 450px;
+        align-items: center;
       }
       
       .card:hover,

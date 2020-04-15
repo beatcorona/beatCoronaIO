@@ -1,8 +1,10 @@
 import Layout from '../components/Layout';
 
 const Solutions = () => (
-  <div className="container">
-      <Layout>
+  <div>
+
+  <Layout>
+    <div className="container">
           <main>
               <h1>Solutions</h1>
       <div className="grid">
@@ -23,12 +25,17 @@ const Solutions = () => (
           <img src="/images/site/mockup_map.webp"></img>
         <p>E-Governance enables BeatCorona to  monitor capabilities in dealing with COVID-19 using enabling real-time data. It enables proactive measures and enforcement to be taken to mitigate the spread of COVID-19 and pandemics in general.</p>
         </div>
-</div>
 
+</div>
           </main>
+          </div>
       </Layout>
       <style jsx>{`
 
+.container {
+    margin-top: 50px;
+    background: #fff;
+}
 main {
     padding: 2rem 0;
     flex: 1;

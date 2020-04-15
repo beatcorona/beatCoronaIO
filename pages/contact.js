@@ -4,8 +4,9 @@ const sendMessage = function()  {
 
 }
 const Contact = () => (
-  <div className="container">
+  <div>
       <Layout>
+  <div className="container">
           <main>
               <h1>Contact</h1>
 {/*               <form>
@@ -25,7 +26,14 @@ const Contact = () => (
 </form> */}
     <EmailForm />
           </main>
+          </div>
       </Layout>
+      <style jsx>{`
+        .container {
+            margin-top: 50px;
+            background: #fff;
+        }
+        `}</style>
   </div>
 )
 

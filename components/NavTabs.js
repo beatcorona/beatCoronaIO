@@ -48,9 +48,9 @@ function NavTabs(props) {
         }
         .nav-item a {
             width: 100%;
-            font-size: 1.5rem;
+            font-size: 2.5rem;
             text-decoration: none;
-            color: black;
+            color: #f09d14;
         }
     `}
 
